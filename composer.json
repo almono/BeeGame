@@ -1,0 +1,10 @@
+{
+    "name": "game/bee",
+    "type": "composer",
+    "autoload": {
+        "psr-4": {
+            "Game\\": "src/Game"
+        }
+    },
+    "minimum-stability": "dev"
+}
